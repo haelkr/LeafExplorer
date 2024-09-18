@@ -1,5 +1,6 @@
-# This conda environment has been tested in Ubuntu 22.04, 32GB RAM
-# 1 TB SSD, NVIDIA
+# This conda environment has been tested in Ubuntu 22.04, 32GB RAM, 16 cores
+# 1 TB SSD, NVIDIA 3060
+# Alson in a server with Ubuntu 22.04, 32GB RAM, 48 cores, 1TB SSD, 10TB Hard Drive, NVIDIA 360
 name: LeafExplorer
 channels:
   - defaults
